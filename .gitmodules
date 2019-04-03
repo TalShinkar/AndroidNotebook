@@ -1,0 +1,3 @@
+[submodule "AndroidInterpreter"]
+	path = AndroidInterpreter
+	url = https://github.com/TalShinkar/androidInterpreter.git
