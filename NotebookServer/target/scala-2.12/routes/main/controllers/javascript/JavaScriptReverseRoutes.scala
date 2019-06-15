@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/talshinkar/Google Drive/Technion/Semester H/AndroidNotebook/NotebookServer/conf/routes
-// @DATE:Sat Jun 15 13:14:54 IDT 2019
+// @DATE:Sat Jun 15 19:12:10 IDT 2019
 
 import play.api.routing.JavaScriptReverseRoute
 

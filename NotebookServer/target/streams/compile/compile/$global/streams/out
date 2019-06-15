@@ -1,4 +1,4 @@
-[error] /Users/talshinkar/Google Drive/Technion/Semester H/AndroidNotebook/NotebookServer/app/controllers/NotebookController.java:19:1: cannot find symbol
-[error]   symbol:   variable re
-[error]   location: class controllers.NotebookController
-[error]         return re;
+[error] /Users/talshinkar/Google Drive/Technion/Semester H/AndroidNotebook/NotebookServer/app/views/notebook.scala.html:22:37: not found: value webcomponents
+[error]         <script src="/node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js"></script>
+[error]                                     ^
+[error] one error found

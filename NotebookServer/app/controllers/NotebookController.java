@@ -14,7 +14,7 @@ public class NotebookController extends Controller {
 
     public Result index() {
         if(this.state.getAuthenticationService().isNotebookRegistered())
-            return ok(index.render("Your new application is ready."));
+            return ok(notebook.render("Android Notebook"));
 
         return redirect("/register");
     }
