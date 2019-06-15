@@ -2,315 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e9dfdc-10c1-4881-ae4a-8174ef3492eb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_2_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_core_1_2_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_classmate_1_3_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_failureaccess_1_0_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_27_1_jre_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_2_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_4_2_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_j2objc_j2objc_annotations_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_h2database_h2_1_4_199_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okhttp3_okhttp_3_11_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okio_okio_1_14_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_22_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_12_10_1_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_12_10_1_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_2_12_2_5_22_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_12_2_5_22_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_12_2_5_22_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_2_0_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_http_2_0_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_build_link_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_filters_helpers_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_akka_http_server_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_enhancer_1_2_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_exceptions_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_functional_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_guice_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_java_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_java_forms_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_json_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_logback_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_netty_server_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_server_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_streams_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_test_2_12_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_twirl_api_2_12_1_4_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_3_7_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_net_commons_net_3_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_jsonwebtoken_jjwt_0_9_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_buffer_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_http_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_common_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_handler_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_resolver_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_native_epoll_4_1_34_Final_linux_x86_64_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_native_unix_common_4_1_34_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_activation_javax_activation_api_1_2_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_transaction_jta_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_validation_validation_api_2_0_1_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_3_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_10_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_bytebuddy_byte_buddy_1_8_15_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_jodah_typetools_0_5_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_2_33_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_core_js_2_33_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_cssparser_1_2_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_neko_htmlunit_2_33_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_exec_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_text_1_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_10_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_assertj_assertj_core_3_11_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_atteo_classindex_classindex_3_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_awaitility_awaitility_3_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_checkerframework_checker_qual_2_5_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_client_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_http_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_io_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_util_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_xml_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_4_12_v20180830_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_fluentlenium_fluentlenium_core_3_7_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hibernate_validator_hibernate_validator_6_0_16_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_javassist_javassist_3_21_0_GA_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_jboss_logging_jboss_logging_3_3_2_Final_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_objenesis_objenesis_2_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_9_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_8_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_htmlunit_driver_2_33_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_api_3_141_59_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_remote_driver_3_141_59_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_support_3_141_59_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_26_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_26_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_26_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_springframework_spring_beans_5_1_5_RELEASE_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_springframework_spring_context_5_1_5_RELEASE_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_springframework_spring_core_5_1_5_RELEASE_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_serializer_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_xalan_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_12_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_4_01_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/play2_project_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/play2_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NOTICE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Module.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/AsyncController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/CountController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/HomeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/filters/ExampleFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/ApplicationTimer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/AtomicCounter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/Counter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/index.scala.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/main.scala.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/welcome.scala.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/application.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/routes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/notebookserver-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/notebookserver-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-notebookserver-build-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/external.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/header-pattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/hello.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt-launch-lib.bash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt-launch.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/conf/sbtconfig.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt-dist/conf/sbtopts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sbt.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/test-sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sbt_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sbt_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-assets-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-assets.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/BrowserTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/FunctionalTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/UnitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/NotebookController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/RegistrationController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/exceptions/ExecutionFailedException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/exceptions/IllegalStatusException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/AppStateService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/AuthenticationServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/AuthenticationService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/AutocompleteManager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/ExecutionResult.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/ExecutionService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/InterpreterService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/QRCodeService.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/Module.java" afterPath="$PROJECT_DIR$/app/Module.java" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AsyncController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/CountController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/HomeController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/filters/ExampleFilter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/services/ApplicationTimer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/services/AtomicCounter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/services/Counter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/views/welcome.scala.html" afterPath="$PROJECT_DIR$/app/views/welcome.scala.html" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" afterPath="$PROJECT_DIR$/conf/application.conf" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" afterPath="$PROJECT_DIR$/conf/routes" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Module.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/application.conf" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/application.conf" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/AsyncController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/CountController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/HomeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseAssets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseAsyncController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseCountController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseHomeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseAsyncController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseCountController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseHomeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes$javascript.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/filters/ExampleFilter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/routes" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/routes" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/services/ApplicationTimer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/services/AtomicCounter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/services/Counter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/index$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/index.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/main$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/welcome$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/views/html/welcome.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.5/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sbt_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sbt_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources/1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources/1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example$sources_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sbt_2.12-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-debian.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docker.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-linux.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-rpm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-src.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-assets-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-assets.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-web-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-windows.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources_2.12-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-debian.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-debian.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docker.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docker.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-linux.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-linux.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-rpm.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-rpm.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-src.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-src.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-assets.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-web-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-windows.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-windows.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/routes.java" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/routes.java" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/Routes.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/Routes.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/RoutesPrefix.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/RoutesPrefix.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/index.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/index.template.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/main.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/main.template.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/welcome.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/welcome.template.scala" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" afterPath="$PROJECT_DIR$/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" afterPath="$PROJECT_DIR$/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -344,12 +192,169 @@
       </state>
     </system>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NotebookController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/NotebookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="215" column="86" lean-forward="false" selection-start-line="215" selection-start-column="86" selection-end-line="215" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticationServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/services/AuthenticationServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppStateService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/AppStateService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutionService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/ExecutionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterpreterService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/InterpreterService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Module.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Module.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutionResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/services/ExecutionResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/BrowserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionalTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/FunctionalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ExampleFilter</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/controllers/AppRegistration.java" />
+        <option value="$PROJECT_DIR$/app/services/Counter.java" />
+        <option value="$PROJECT_DIR$/app/services/ExecutionFailedException.java" />
+        <option value="$PROJECT_DIR$/app/services/IllegalStatusException.java" />
+        <option value="$PROJECT_DIR$/app/exceptions/ExecutionFailedException.java" />
+        <option value="$PROJECT_DIR$/conf/routes" />
+        <option value="$PROJECT_DIR$/app/services/AuthenticationService.java" />
+        <option value="$PROJECT_DIR$/app/services/AutocompleteManager.java" />
+        <option value="$PROJECT_DIR$/app/services/QRCodeService.java" />
+        <option value="$PROJECT_DIR$/app/services/AppSatateService.java" />
+        <option value="$PROJECT_DIR$/app/controllers/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/app/views/welcome.scala.html" />
+        <option value="$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/welcome.template.scala" />
+        <option value="$PROJECT_DIR$/app/services/ExecutionService.java" />
+        <option value="$PROJECT_DIR$/app/services/ExecutionResult.java" />
+        <option value="$PROJECT_DIR$/app/services/InterpreterService.java" />
+        <option value="$PROJECT_DIR$/app/Module.java" />
+        <option value="$PROJECT_DIR$/conf/application.conf" />
+        <option value="$PROJECT_DIR$/app/controllers/NotebookController.java" />
+        <option value="$PROJECT_DIR$/app/services/AuthenticationServer.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -414,13 +419,35 @@
             <path>
               <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
               <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
               <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notebookserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NotebookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -433,6 +460,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="services" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -594,15 +626,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560587140596</updated>
-      <workItem from="1560587142284" duration="997000" />
+      <workItem from="1560587142284" duration="8194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="997000" />
+    <option name="totallyTimeSpent" value="8194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3397711" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -617,16 +650,18 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23247497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23247497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -634,7 +669,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -647,6 +681,281 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/CountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AppRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AtomicCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/srcs/play_2.12-2.7.2-sources.jar!/play/inject/ApplicationLifecycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/filters/ExampleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AsyncController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/ApplicationTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/exceptions/IllegalStatusException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/exceptions/ExecutionFailedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AuthenticationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AutocompleteManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/QRCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/routes/main/router/Routes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <marker date="1560593694319" expanded="true" signature="4588:4606" ph="{...}" />
+            <marker date="1560593694319" expanded="true" signature="4588:4608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/routes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome.scala.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.12/twirl/main/views/html/welcome.template.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="111" column="41" lean-forward="false" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+          <folding>
+            <marker date="1560593694377" expanded="true" signature="4586:5194" ph="(...)" />
+            <marker date="1560593694377" expanded="true" signature="4587:5194" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BrowserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/FunctionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/UnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/ExecutionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/ExecutionResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/InterpreterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AppStateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="215" column="86" lean-forward="false" selection-start-line="215" selection-start-column="86" selection-end-line="215" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/NotebookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AuthenticationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

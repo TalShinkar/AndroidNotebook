@@ -62,11 +62,11 @@ Seq[Any](format.raw/*2.1*/("""
             </p>
 
             <pre><code># Home page
-GET     /               controllers.HomeController.index</code></pre>
+                GET     /               controllers.NotebookController.index</code></pre>
 
 
             <p>
-                Play has invoked the <code>controllers.HomeController.index</code> method:
+                Play has invoked the <code>controllers.NotebookController.index</code> method:
             </p>
 
             <pre><code>public Result index() """),format.raw/*41.46*/("""{"""),format.raw/*41.47*/("""
@@ -109,7 +109,7 @@ GET     /               controllers.HomeController.index</code></pre>
             Now that you've seen how Play renders a page, take a look at <code>AsyncController.java</code>, which shows how to do asynchronous programming when handling a request.  The code is almost exactly the same as <code>HomeController.java</code>, but instead of returning <code>Result</code>, the action returns <code>CompletionStage&lt;Result&gt;</code> to Play.  When the execution completes, Play can use a thread to render the result without blocking the thread in the mean time.
 
             <p>
-                <a href=""""),_display_(/*81.27*/routes/*81.33*/.AsyncController.message),format.raw/*81.57*/("""">Click here for the AsyncController action!</a>
+                <a href="#">Click here for the AsyncController action!</a>
             </p>
 
             <p>
@@ -123,7 +123,7 @@ GET     /               controllers.HomeController.index</code></pre>
             </p>
 
             <p>
-                <a href=""""),_display_(/*95.27*/routes/*95.33*/.CountController.count),format.raw/*95.55*/("""">Click here for the CountController action!</a>
+                <a href="#">Click here for the CountController action!</a>
             </p>
 
             <p>
@@ -214,11 +214,11 @@ GET     /               controllers.HomeController.index</code></pre>
 
               /*
                   -- GENERATED --
-                  DATE: Sat Jun 15 11:40:47 IDT 2019
+                  DATE: Sat Jun 15 13:14:54 IDT 2019
                   SOURCE: /Users/talshinkar/Google Drive/Technion/Semester H/AndroidNotebook/NotebookServer/app/views/welcome.scala.html
-                  HASH: 3a243ffadb20fad3e9d1b24165806c57eec5549a
-                  MATRIX: 957->1|1092->43|1119->45|1166->84|1216->97|1248->103|1389->218|1416->225|1450->233|1477->240|1889->625|1917->632|1962->649|2607->1266|2636->1267|2668->1272|2754->1331|2782->1332|3321->1845|3350->1846|3381->1850|3450->1893|3478->1894|4337->2726|4366->2733|4533->2872|4562->2879|5194->3484|5209->3490|5254->3514|5458->3691|5487->3698|6136->4320|6151->4326|6194->4348|6398->4525|6427->4532|6814->4890|6844->4897|7440->5465|7469->5472|7730->5704|7760->5711|9078->7001|9107->7008|9230->7103|9259->7110|9293->7116|9320->7121|9374->7146|9415->7164|9446->7165|9624->7315|9653->7322|9797->7438|9826->7445|10416->8004
-                  LINES: 28->1|33->2|34->3|34->3|34->3|36->5|38->7|38->7|38->7|38->7|53->22|53->22|54->23|72->41|72->41|73->42|74->43|74->43|87->56|87->56|89->58|91->60|91->60|105->74|105->74|105->74|105->74|112->81|112->81|112->81|116->85|116->85|126->95|126->95|126->95|130->99|130->99|136->105|136->105|148->117|148->117|154->123|154->123|181->150|181->150|182->151|182->151|182->151|182->151|182->151|182->151|182->151|186->155|186->155|187->156|187->156|200->169
+                  HASH: 76ad43b2d191de963b57c2f2b1648e680cb50361
+                  MATRIX: 957->1|1092->43|1119->45|1166->84|1216->97|1248->103|1389->218|1416->225|1450->233|1477->240|1889->625|1917->632|1962->649|2631->1290|2660->1291|2692->1296|2778->1355|2806->1356|3345->1869|3374->1870|3405->1874|3474->1917|3502->1918|4361->2750|4390->2757|4557->2896|4586->2903|5395->3685|5424->3692|6250->4491|6279->4498|6666->4856|6696->4863|7292->5431|7321->5438|7582->5670|7612->5677|8930->6967|8959->6974|9082->7069|9111->7076|9145->7082|9172->7087|9226->7112|9267->7130|9298->7131|9476->7281|9505->7288|9649->7404|9678->7411|10268->7970
+                  LINES: 28->1|33->2|34->3|34->3|34->3|36->5|38->7|38->7|38->7|38->7|53->22|53->22|54->23|72->41|72->41|73->42|74->43|74->43|87->56|87->56|89->58|91->60|91->60|105->74|105->74|105->74|105->74|116->85|116->85|130->99|130->99|136->105|136->105|148->117|148->117|154->123|154->123|181->150|181->150|182->151|182->151|182->151|182->151|182->151|182->151|182->151|186->155|186->155|187->156|187->156|200->169
                   -- GENERATED --
               */
           

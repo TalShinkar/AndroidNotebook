@@ -1,0 +1,4 @@
+[error] /Users/talshinkar/Google Drive/Technion/Semester H/AndroidNotebook/NotebookServer/app/controllers/NotebookController.java:19:1: cannot find symbol
+[error]   symbol:   variable re
+[error]   location: class controllers.NotebookController
+[error]         return re;
